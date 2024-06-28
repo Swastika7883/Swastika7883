@@ -1,5 +1,6 @@
+<img align="center" width="100%" src="https://github.com/Swastika7883/Swastika7883/assets/125713787/1ece2428-81dc-4df0-97e3-0a15caa1f686">
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=This+is+Swastika!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=welcome+to+my+account+^^;" />
 </h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
