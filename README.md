@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastika7883&label=Profile%20views&color=0e75b6&style=flat" alt="swastika7883" /> </p>
 <img align="right" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125713787/344120558-5cfc0bc6-65cf-48fb-a2f2-1359d42eceb5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240628T100934Z&X-Amz-Expires=300&X-Amz-Signature=14f13587b92828eb33359951c47e19e009468ec41b2622665cb0f71118b4452b&X-Amz-SignedHeaders=host&actor_id=125713787&key_id=0&repo_id=820928602">
+
 <h2 align="left"> ABOUT ME : </h2>
 - 🔭 I’m currently working on **shopping cart and e commerce project website**
 
@@ -14,6 +15,7 @@
 - 📫 How to reach me **swastikabera2004@gmail.com**
 
 <h2 align="left">CONNECT WITH ME :</h2>
+
 <p align="left">
 <a href="https://linkedin.com/in/swastika-bera-a2197b24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastika-bera-a2197b24a" height="30" width="40" /></a>
 </p>
