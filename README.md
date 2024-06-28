@@ -1,8 +1,6 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Swastika!;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=This+is+Swastika!;" />
 </h1>
-
-<h1 align="left"> I'M  SWASTIKA  BERA</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastika7883&label=Profile%20views&color=0e75b6&style=flat" alt="swastika7883" /> </p>
