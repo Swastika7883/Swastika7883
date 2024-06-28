@@ -1,11 +1,9 @@
-![giff](https://github.com/Swastika7883/Swastika7883/assets/125713787/5cfc0bc6-65cf-48fb-a2f2-1359d42eceb5)
+<img align="right" width="400" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125713787/344120558-5cfc0bc6-65cf-48fb-a2f2-1359d42eceb5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240628T100934Z&X-Amz-Expires=300&X-Amz-Signature=14f13587b92828eb33359951c47e19e009468ec41b2622665cb0f71118b4452b&X-Amz-SignedHeaders=host&actor_id=125713787&key_id=0&repo_id=820928602">
 
 <h1 align="left">Hi 👋, I'm Swastika Bera</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastika7883&label=Profile%20views&color=0e75b6&style=flat" alt="swastika7883" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swastika7883" alt="swastika7883" /></a> </p>
 
 - 🔭 I’m currently working on **shopping cart and e commerce project website**
 
