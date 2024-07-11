@@ -20,13 +20,6 @@
 <br>
   <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<br>
 
 <h2 align="left">CONNECT WITH ME :</h2>
 
